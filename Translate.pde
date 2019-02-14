@@ -2,8 +2,9 @@
  * Translate a scaled object to a new location
  *******************************************/
  
-float x = translation(0.6, 244, 45);
-float y = translation(0.6, 165, 465);
+// I use the tranlation function to move the point (244, 165)->(120, 300) under a 0.6 scale.
+float x = translation(0.6, 244, 120);
+float y = translation(0.6, 165, 300);
 
 
 ///<summary>
